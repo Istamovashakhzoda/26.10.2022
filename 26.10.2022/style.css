@@ -1,0 +1,52 @@
+th,
+td {
+  border: 1px solid black;
+  padding: 5px 10 px;
+  border-radius: 5px;
+
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+  border: 2px solid blueviolet;
+}
+
+#birinchi {
+  color: aqua;
+  font-weight: bold;
+}
+
+tr,
+th {
+  border: 1px solid rgba(11, 235, 11, 0.979);
+}
+
+.oy {
+  width: 350px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.ikkinchi {
+  width: 350px;
+  height: 300px;
+  border-radius: 70px;
+}
+
+.uchinchi {
+  width: 350px;
+  height: 300px;
+  border-radius: 70%;
+}
+
+.matn {
+  color: blue;
+  text-align: center;
+}
+
+#ikkinchi {
+  color: brown;
+  text-align: center;
+}
